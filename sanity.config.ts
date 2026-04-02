@@ -5,7 +5,7 @@ import { appSchema } from "./schemaTypes/game";
 export default defineConfig({
   name: "styngms",
   title: "AllYonoGamesh Studio",
-  projectId: "",
+  projectId: "r0d9oz57",
   dataset: "production",
   plugins: [structureTool()],
   schema: {
